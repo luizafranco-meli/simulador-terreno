@@ -141,7 +141,7 @@ _DEFAULTS_WIDGETS = {
     "w_n_parcelas": 80,
     "w_valor_venda": 0.0,
     "w_mes_venda": 120,
-    "w_tma": 12.0,
+    "w_tma": 14.5,
     "w_ipca_mode": "Padrão (BBA da planilha)",
     "w_ipca_y1": 4.20,
     "w_ipca_y2": 4.10,
